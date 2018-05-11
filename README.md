@@ -27,3 +27,7 @@ AdventureWorksDW_neu: SQL Server for SSIS Target
 # Master Job to load the data warehouse at one click
 <img width="895" alt="masterjob" src="https://user-images.githubusercontent.com/32627251/39933803-f3793d8c-5511-11e8-91b5-ccdccb85d88d.PNG">
 
+# Snapshots of few SSIS jobs
+
+- DimEmployee
+
