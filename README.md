@@ -22,4 +22,4 @@ AdventureWorksDW_neu: SQL Server for SSIS Target
 
 # Target Tables
 
-<img width="213" alt="target" src="https://user-images.githubusercontent.com/32627251/39931727-447d0d68-550c-11e8-9901-afb29bda470e.PNG">
+<img width="356" alt="target" src="https://user-images.githubusercontent.com/32627251/39931967-def6cfe6-550c-11e8-8611-e5482e881b1a.PNG">
