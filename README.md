@@ -23,3 +23,7 @@ AdventureWorksDW_neu: SQL Server for SSIS Target
 # Target Tables
 
 <img width="356" alt="target" src="https://user-images.githubusercontent.com/32627251/39931967-def6cfe6-550c-11e8-8611-e5482e881b1a.PNG">
+
+# Master Job to load the data warehouse at one click
+<img width="895" alt="masterjob" src="https://user-images.githubusercontent.com/32627251/39933803-f3793d8c-5511-11e8-91b5-ccdccb85d88d.PNG">
+
