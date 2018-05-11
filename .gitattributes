@@ -1,1 +1,2 @@
 .*Database[[:space:]]Files filter=lfs diff=lfs merge=lfs -text
+.*SSIS[[:space:]]Jobs filter=lfs diff=lfs merge=lfs -text
