@@ -21,7 +21,7 @@ AdventureWorksDW_neu: SQL Server for SSIS Target
 - Install ODBC driver for MySQL, PostgreSQL and Oracle (For SQL Server, you can use the OLE DB Source and Destination)
 - Connect the source files using the ODBC Data sources
 - Load the source data files to all the inputand output data components
-- Change the path to of all the flat files
+- Change the path of all the flat files
 
 
 # Source Files
