@@ -2,7 +2,7 @@
 
 # Problem Statement 
 
-Extracting data from Source database to target database
+Extracting data from Source database and loading to target database
 
 -	Source database: 
 
