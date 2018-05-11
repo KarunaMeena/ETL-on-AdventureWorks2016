@@ -30,4 +30,5 @@ AdventureWorksDW_neu: SQL Server for SSIS Target
 # Snapshots of few SSIS jobs
 
 - DimEmployee
+<img width="582" alt="dimemployee" src="https://user-images.githubusercontent.com/32627251/39934880-426fa34c-5515-11e8-9ae2-606cc9a6f154.PNG">
 
