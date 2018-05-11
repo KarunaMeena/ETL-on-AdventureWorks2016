@@ -7,7 +7,6 @@ Extracting data from Source database and loading to target database
 -	Source database: 
 
 AdventureWorks2016_us - sql server 
-
 AdventureWorks2016_eu - mysql  
 AdventureWorks2016_au - postgresql  
 AdventureWorks2016_ca - oracle 
