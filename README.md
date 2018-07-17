@@ -26,7 +26,7 @@ AdventureWorksDW_neu: SQL Server for SSIS Target
 - Load the source data files to all the inputand output data components
 - Change the path of all the flat files
 
-Note: File for reference on connecting ODBC sources is [Here](https://pages.github.com/).
+
 
 
 # Source Files
