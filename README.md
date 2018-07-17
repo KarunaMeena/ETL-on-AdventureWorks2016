@@ -46,3 +46,7 @@ AdventureWorksDW_neu: SQL Server for SSIS Target
 - SCD type 2 in DimEmployee
 
 <img width="199" alt="scddimemployee" src="https://user-images.githubusercontent.com/32627251/39939190-6a23b208-5523-11e8-815f-cbb5b95fde85.PNG">
+
+- DimStore
+
+
