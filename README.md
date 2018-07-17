@@ -59,4 +59,8 @@ Note: Document on adding databases on ODBC drivers can be found [here](https://g
 
 ![DimCustomer](https://github.com/KarunaMeena/ETL-on-AdventureWorks2016/blob/master/images/DimCustomer.PNG)
 
+- FactInternetSales
+
+![FactInternetSales](https://github.com/KarunaMeena/ETL-on-AdventureWorks2016/blob/master/images/FactInternetSales.PNG)
+
 
