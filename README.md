@@ -49,4 +49,10 @@ AdventureWorksDW_neu: SQL Server for SSIS Target
 
 - DimStore
 
+![DimStore](https://github.com/KarunaMeena/ETL-on-AdventureWorks2016/blob/master/images/DimStore.PNG)
+
+-DimCustomer
+
+![DimCustomer](https://github.com/KarunaMeena/ETL-on-AdventureWorks2016/blob/master/images/DimCustomer.PNG)
+
 
