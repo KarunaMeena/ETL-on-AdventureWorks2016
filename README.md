@@ -26,6 +26,8 @@ AdventureWorksDW_neu: SQL Server for SSIS Target
 - Load the source data files to all the inputand output data components
 - Change the path of all the flat files
 
+Note: Document on adding databases on ODBC drivers can be found [here](https://github.com/KarunaMeena/ETL-on-AdventureWorks2016/blob/master/ODBC_Document.pdf)
+
 
 
 
